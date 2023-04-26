@@ -1,0 +1,36 @@
+Brand,Model,Price,Memory(GB),CPU_brand,Generation,Processor(CPU),Graphic_card(GPU),Storage_drive_type,Hard_drive_size(GB),Screen_size(inch),Screen_resolution,Operating_system,Color,Website
+HP,17-cp1035cl,599.99,12,AMD,NA,R5,Integrated Graphics,HDD,1024,17.3,1600,Windows,Silver,https://www.costco.com/macbook-air-13.3%22---apple-m1-chip-8-core-cpu%2c-7-core-gpu---8gb-memory---256gb-ssd-space-gray.product.100688258.html
+Lenovo,82S00003US,1399.99,16,Intel,12,i7,NVIDIA GeForce RTX 3050Ti,SSD,512,16,2560,Windows,Gray,https://www.costco.com/lenovo-legion-5-pro-16%22-gaming-laptop---12th-gen-intel-core-i7-12700h---geforce-rtx-3050ti---165hz-2560-x-1600-display----windows-11.product.100976642.html
+ASUS,UX582HM-XH96T,"1,999.97",32,Intel,11,i9,NVIDIA GeForce RTX 3060,SSD,1024,15.6,1920,Windows,Blue,https://www.costco.com/.product.100831583.html
+LG,15Z90Q-P.AAC8U1,1199.99,16,Intel,12,i7,Integrated Graphics,SSD,1024,15.6,1920,Windows,Black,https://www.costco.com/.product.100983985.html
+HP,17-ch2045cl,1249.99,16,Intel,12,i7,NVIDIA GeForce MX550,SSD,1024,17.3,1920,Windows,Silver,https://www.costco.com/.product.100941379.html
+Acer,CP514-1H-R22H,399.99,8,AMD,NA,R3,Integrated Graphics,eMMC,128,14,1920,Chrome,Silver,https://www.costco.com/.product.4000142128.html
+Apple,MGN63LL/A,949.99,8,Apple,NA,M1,Integrated Graphics,SSD,256,13.3,2560,Mac,Gray,https://www.costco.com/macbook-air-13.3%22---apple-m1-chip-8-core-cpu%2c-7-core-gpu---8gb-memory---256gb-ssd-space-gray.product.100688258.html
+Lenovo,82WQ0065US,2799.99,32,Intel,13,i9,NVIDIA GeForce RTX 4080,SSD,1024,16,2560,Windows,NA,https://www.costco.com/.product.4000154189.html
+Lenovo,82RB006JUS,1549.99,16,Intel,12,i7,NVIDIA GeForce RTX 3060,SSD,512,15.6,2160,Windows,Gray,https://www.costco.com/.product.100858006.html
+HP,14a-na1083cl,349.99,4,Intel,NA,Celeron,Integrated Graphics,eMMC,128,14,1920,Chrome,Gray,https://www.costco.com/.product.100853396.html
+ASUS,CX1400CNA-IS44F-B-M,269.99,4,Intel,NA,Celeron,Integrated Graphics,eMMC,64,14,1920,Chrome,Silver,https://www.costco.com/.product.4000024352.html
+Dell,G15SE-9448BLK-PUS,1549.99,32,Intel,12,i9,NVIDIA GeForce RTX 3070Ti,SSD,1024,15.6,2560,Windows,Black,https://www.costco.com/.product.4000148971.html
+Dell,XPS9720-7232PLT-PUS,1999.99,32,Intel,12,i7,NVIDIA GeForce RTX 3050,SSD,1024,17,1920,Windows,Silver,https://www.costco.com/.product.100983533.html
+HP,14-dy2095cl,849.99,16,Intel,12,i5,Integrated Graphics,SSD,512,14,1920,Windows,Silver,https://www.costco.com/.product.100941444.html
+LG,17-ck1065cl,1899.99,16,Intel,12,i7,NVIDIA GeForce RTX 3070Ti,SSD,1024,17.3,2560,Windows,Black,https://www.costco.com/.product.100854173.html
+MSI,Vector GP76 12UGS-298,1499.99,16,Intel,12,i7,NVIDIA GeForce RTX 3070Ti,SSD,1024,17.3,1920,Windows,Black,https://www.costco.com/.product.4000146955.html
+MSI,Vector GP76 12UHSO-877,2249.99,16,Intel,12,i7,NVIDIA GeForce RTX 3080Ti,SSD,1024,17.3,1920,Windows,NA,https://www.costco.com/.product.4000147479.html
+Apple,MNEH3LL/A,1249.99,8,Apple,NA,M2,Integrated Graphics,SSD,256,13.3,2560,Mac,NA,https://www.costco.com/.product.100806152.html
+Apple,MLXX3LL/A,1449.99,8,Apple,NA,M2,Integrated Graphics,SSD,512,13.6,2560,Mac,NA,https://www.costco.com/.product.100713147.html
+Apple,MPHE3LL/A,1949.99,16,Apple,NA,M2_Pro,16,SSD,512,14,3024,Mac,NA,https://www.costco.com/.product.100806162.html
+Apple,MNWD3LL/A,2649.99,16,Apple,NA,M2_Pro,19,SSD,1024,16,3456,Mac,NA,https://www.costco.com/.product.100943100.html
+Apple,MNWA3LL/A,3449.99,32,Apple,NA,M2_Max,38,SSD,1024,16,3456,Mac,NA,https://www.costco.com/.product.4000116686.html
+Apple,MPHG3LL/A,3049.99,32,Apple,NA,M2_Max,30,SSD,1024,14,3024,Mac,NA,https://www.costco.com/.product.4000116646.html
+LG,15Z90Q-P.AAC6U1,1199.99,16,Intel,12,i5,Integrated Graphics,SSD,512,15.6,1920,Windows,Gray,https://www.costco.com/.product.100986134.html
+HP,15-eg2153cl,749.99,16,Intel,12,i5,Intel Iris Xe,SSD,512,15.6,1920,Windows,NA,https://www.costco.com/.product.4000052574.html
+HP,15-eg2055cl,1099.99,16,Intel,12,i7,NVIDIA GeForce MX550,SSD,1024,15.6,1920,Windows,Silver,https://www.costco.com/.product.100858327.html
+MSI,Vector GP66 12UHSO-654,2349.99,16,Intel,12,i7,NVIDIA GeForce RTX 3080Ti,SSD,1024,15.6,1920,Windows,Black,https://www.costco.com/.product.4000146916.html
+HP,14a-ca1015cl,399.99,8,Intel,NA,Pentium,Integrated Graphics,eMMC,128,14,1920,Chrome,NA,
+HP,17-ch2045cl,1249.99,16,Intel,12,i7,NVIDIA GeForce MX550,SSD,1024,17.3,1920,Windows,Silver,https://www.costco.com/.product.100941379.html
+Lenovo,82SF0009US,799.99,12,Intel,12,i7,Integrated Graphics,SSD,512,15.6,1920,Windows,Blue,https://www.costco.com/.product.100975528.html
+ASUS,GA402RJ-G14.R96700,1649.99,16,AMD,NA,R9,AMD Radeon RX 6700S,SSD,1024,14,2560,Windows,NA,https://www.bestbuy.com/site/asus-rog-zephyrus-14-wqxga-120hz-gaming-laptop-amd-ryzen-9-16gb-ddr5-memory-amd-radeon-rx-6700s-1tb-pcie-4-0-ssd/6494638.p?skuId=6494638
+Alienware,AWM15R7-7693BLK-PUS,1299.99,16,Intel,12,i7,NVIDIA GeForce RTX 3060,SSD,512,15.6,2560,Windows,NA,https://www.costco.com/.product.4000149951.html
+Dell, XPS9720-7232PLT-PUS,1999.99,32,Intel,12,i7,NVIDIA GeForce RTX 3050,SSD,1024,17,1920,Windows,Silver,https://www.costco.com/.product.100983533.html
+Dell,XPS9710-7385SLV-PUS,2499.99,32,Intel,11,i7,NVIDIA GeForce RTX 3050,SSD,1024,17,1920,Windows,Silver,https://www.costco.com/.product.100808060.html
+Apple,MGN93LL/A,949.99,8,Apple,NA,M1,Integrated Graphics,SSD,256,13.3,2560,Mac,Silver,https://www.costco.com/macbook-air-13.3%22---apple-m1-chip-8-core-cpu%2c-7-core-gpu---8gb-memory---256gb-ssd-silver.product.100688289.html
